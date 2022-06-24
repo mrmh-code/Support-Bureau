@@ -35,7 +35,7 @@ function App() {
               <AddServices/>
             </Route>
 
-            <Route path='/manageservice'>
+            <Route path='/manageService'>
             <ManageService/>
             </Route>
             <Route path="*">
